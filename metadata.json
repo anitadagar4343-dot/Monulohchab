@@ -1,0 +1,5 @@
+{
+  "name": "Gemini AI Studio Clone",
+  "description": "A web app that replicates the main features of Google AI Studio. It allows users to experiment with generative AI models by creating, editing, and running prompts, viewing results instantly, and exporting code.",
+  "requestFramePermissions": []
+}
